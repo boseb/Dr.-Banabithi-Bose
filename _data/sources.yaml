@@ -4,6 +4,8 @@
   date: 2025-06-11
   image: 
   buttons:
+    - type: manubot
+      link: https://greenelab.github.io/meta-review/
     - type: source
       text: Repository
       link: https://github.com/boseb/GXwasR

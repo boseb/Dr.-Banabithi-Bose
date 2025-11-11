@@ -13,7 +13,7 @@
 
   - id: medRxiv:2025.06.10.25329327
   type: paper
-  description: Drug response prediction model
+  description: Sex-aware genetics.
   image: 
   buttons:
     - type: source

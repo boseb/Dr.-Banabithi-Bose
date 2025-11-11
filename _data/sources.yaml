@@ -11,22 +11,18 @@
     - medicine
   repo: 
 
-- id: medRxiv:2025.06.10.25329327
+  - id: medRxiv:2025.06.10.25329327
   type: paper
-  description: **Computational Tool**
+  description: Drug response prediction model
   image: 
   buttons:
     - type: source
       link: https://pmc.ncbi.nlm.nih.gov/articles/PMC12259075/figure/F1
-    - type: source
-      text: Repository
-      link: https://github.com/boseb/GXwasR
-    - type: source
-      text: Tutorials
-      link: https://github.com/boseb/GXwasR_Tutorials
-   tags:
-     - biology
-     - big data
-     - medicine
-   repo: 
+  tags:
+    - biology
+    - big data
+    - medicine
+  repo: 
+
+
 

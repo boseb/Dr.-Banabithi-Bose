@@ -1,8 +1,7 @@
 ---
 ---
 
-Dr. Banabithi Bose is a postdoctoral research scientist in the Department of Genetic Medicine, at Northwestern University, Chicago, IL. She completed her Ph.D. from Marquette University, Milwaukee, WI under the supervision of Dr. Serdar Bozdag and currently working with Dr. Barbara Stranger  at Northwestern. Dr. Bose is in the field of interdisciplinary studies that applies mathematics, statistics, and computer science to actionable knowledge in computational genomics, bioinformatics, computational biology, and biomedical data science. The core objective of her research is to leverage the integration of genetic, genomic, epigenomic, and clinical datasets utilizing statistical genetics, artificial intelligence, and machine learning methods to pave the path toward personalized medicine models in complex diseases, such as cancer.
-
+Dr. Banabithi Bose is a Postdoctoral Research Fellow in the Department of Biomedical Informatics at the University of Colorado Anschutz Medical Campus. She completed her Ph.D. in Computer Science from Marquette University, Milwaukee, WI, under the supervision of Dr. Serdar Bozdag, and previously conducted postdoctoral research in the Center for Genetic Medicine at Northwestern University Feinberg School of Medicine with Dr. Barbara Stranger. Dr. Bose’s research lies at the intersection of computational genomics, bioinformatics, and biomedical data science, integrating principles from mathematics, statistics, and computer science to address fundamental challenges in precision medicine. 
 
 {% include section.html %}
 
@@ -10,12 +9,12 @@ Dr. Banabithi Bose is a postdoctoral research scientist in the Department of Gen
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Dr. Bose's work focuses on developing and applying advanced statistical genetics, artificial intelligence, and machine learning methods to integrate genetic, genomic, epigenomic, and clinical datasets. The core objective of her research is to uncover the molecular mechanisms underlying complex diseases—particularly cancer—and to build predictive data-driven models for personalized therapy.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -27,18 +26,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Research"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,31 +48,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Dr. Bose's Projects"
   flip=true
   style="bare"
   text=text
 %}
 
-{% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}

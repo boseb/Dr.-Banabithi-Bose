@@ -11,19 +11,7 @@
     - medicine
   repo: 
 
-#Other
-  - id: medRxiv:2025.06.10.25329327
-  type: paper
-  description: Sex-aware genetics.
-  image: 
-  buttons:
-    - type: source
-      link: https://www.medrxiv.org/content/medrxiv/early/2025/06/11/2025.06.10.25329327/F2.large.jpg
-  tags:
-    - biology
-    - big data
-    - medicine
-  repo: 
+
 
 
 

@@ -11,7 +11,7 @@
 - title: GXwasR
   subtitle: A comprehensive pipeline for sex-aware and conventional GWAS/XWAS
   group: featured
-  image: images/GXwasR.jpg
+  image: images/GXWasR.jpg
   link: https://www.medrxiv.org/content/10.1101/2025.06.10.25329327v1.full
   description: A toolkit to implement statistical genetic models for performing both GWAS and X-Chromosome-Wide Association Studies (XWAS). 
   repo: https://github.com/boseb/GXwasR

@@ -24,7 +24,7 @@ Dr. Bose's work focuses on developing and applying advanced statistical genetics
 
 {%
   include feature.html
-  image="images/bresearch.jpg"
+  image="images/bresearch.png"
   link="research"
   title="Research"
   text=text
@@ -46,7 +46,7 @@ Dr. Bose's work focuses on developing and applying advanced statistical genetics
 
 {%
   include feature.html
-  image="images/bprojects.jpg"
+  image="images/bproject.png"
   link="projects"
   title="Dr. Bose's Projects"
   flip=true

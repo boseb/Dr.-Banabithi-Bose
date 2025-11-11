@@ -1,22 +1,18 @@
-- id: medRxiv 2025.06.10.25329327
+- id: arxiv:1806.05726
   type: paper
-  description: **Computational Tool**
-  date: 2025-06-11
-  image: 
+  description: Lorem ipsum _dolor sit amet_.
+  image: https://publisher.com/striking-image-for-your-paper.jpg
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
     - type: source
-      text: Repository
-      link: https://github.com/boseb/GXwasR
-    - type: source
-      text: Tutorials
-      link: https://github.com/boseb/GXwasR_Tutorials
+      link: https://github.com/your-lab/some-repo
+    - type: website
+      text: My Personal Website
+      link: http://some-website.com/
   tags:
-    - open science
-    - collaboration
+    - biology
+    - big data
+    - medicine
+  repo: your-lab/some-repo
 
-- id: bioRxiv 2025.06.09.658757
-  image: 
 
 

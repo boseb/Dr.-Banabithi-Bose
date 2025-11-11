@@ -1,16 +1,15 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: arxiv:1806.05726
-  title: Generalization of the Fermi Pseudopotential
+- id: bioRxiv:2025.06.09.658757
+  title: A network model for patient-derived drug response in breast cancer integrating
+    multi-omics datasets
   authors:
-  - Trang T. Le
-  - Zach Osman
-  - D. K. Watson
-  - Martin Dunn
-  - B. A. McKinney
-  publisher: arXiv
-  date: '2019-05-01'
-  link: https://arxiv.org/abs/1806.05726
+  - Banabithi Bose
+  - Barbara Stranger
+  - Serdar Bozdag
+  publisher: Cancer Biology
+  date: '2025-06-12'
+  link: http://biorxiv.org/lookup/doi/10.1101/2025.06.09.658757
   type: paper
   description: Lorem ipsum _dolor sit amet_.
   image: null

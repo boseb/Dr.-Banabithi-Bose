@@ -1,47 +1,56 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: PDDRNet-MH 
+  subtitle: Network Science
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/Network.jpg
+  link: https://www.biorxiv.org/content/10.1101/2025.06.09.658757v1.full
+  description: A multiplex heterogeneous network-based framework that integrates genomic, transcriptomic, and epigenomic tumor profiles with drug chemical structures, pharmacological activity, and side-effect data to infer personalized drug responses.
+  repo: https://github.com/boseb/PDDRNet-MH
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: GXwasR
+  subtitle: A comprehensive pipeline for sex-aware and conventional GWAS/XWAS
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/GXwasR.jpg
+  link: https://www.medrxiv.org/content/10.1101/2025.06.10.25329327v1.full
+  description: A toolkit to implement statistical genetic models for performing both GWAS and X-Chromosome-Wide Association Studies (XWAS). 
+  repo: https://github.com/boseb/GXwasR
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: CTDPathSim2.0
+  subtitle: Cell line-tumor deconvoluted pathway-based similarity
+  image: images/CTD2.0.JPG
+  link: https://www.nature.com/articles/s42003-024-06812-3
+  description: Identifying cell lines across pan-cancer to be used in preclinical research as a proxy for patient tumor samples
+  repo: https://github.com/boseb/CTDPathSim2.0
+  tags:
+    - software
+    - publication
+
+- title: Gene-regulatory network
+  subtitle: Computing microRNA-gene interaction networks in pan-cancer
+  image: images/Gene_mirna.JPG
+  link: https://www.nature.com/articles/s41598-022-07628-z
+  description: Integration of high-dimensional genomic and epigenomic datasets, such as copy number aberration, DNA methylation, gene, and micro-RNA expression datasets, to compute gene regulatory interactions in cancer.
+  repo: https://github.com/bozdaglab/miRDriver
+  tags:
+    - resource
+
+- title: CTDPathSim
+  subtitle: 
+  image: images/CTD1.0.JPG
+  link: https://dl.acm.org/doi/10.1145/3388440.3412456
+  description: Cell line-tumor deconvoluted pathway-based similarity.
+  repo: https://github.com/bozdaglab/CTDPathSim
+  tags:
+    - software
+
+    - title: miRDriver
+  subtitle: A tool for computing microRNA-gene interaction networks
+  image: images/mirDriver.jpg
+  link: https://dl.acm.org/doi/10.1145/3307339.3342172
+  description: Cell line-tumor deconvoluted pathway-based similarity.
+  repo: https://github.com/bozdaglab/miRDriver
   tags:
     - software

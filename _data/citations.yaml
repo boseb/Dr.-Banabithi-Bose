@@ -1,5 +1,36 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.06.10.25329327
+  title: 'GXwasR: A Toolkit for Investigating Sex-Differentiated Genetic Effects on
+    Complex Traits'
+  authors:
+  - Banabithi Bose
+  - Freida Blostein
+  - Jeewoo Kim
+  - Jessica Winters
+  - "Ky\u2019Era V. Actkins"
+  - David Mayer
+  - Harrsha Congivaram
+  - Maria Niarchou
+  - Digna Velez Edwards
+  - Lea K. Davis
+  - Barbara E. Stranger
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-11'
+  link: https://doi.org/g992nj
+  type: paper
+  description: Sex-aware genetics.
+  image: ''
+  buttons:
+  - type: source
+    link: https://www.medrxiv.org/content/medrxiv/early/2025/06/11/2025.06.10.25329327/F2.large.jpg
+  tags:
+  - biology
+  - big data
+  - medicine
+  repo: ''
+  plugin: sources.py
+  file: sources-GXwasR.yaml
 - id: bioRxiv:2025.06.09.658757
   title: A network model for patient-derived drug response in breast cancer integrating
     multi-omics datasets
@@ -23,3 +54,47 @@
   repo: null
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s42003-024-06812-3
+  title: Identifying cell lines across pan-cancer to be used in preclinical research
+    as a proxy for patient tumor samples
+  authors:
+  - Banabithi Bose
+  - Serdar Bozdag
+  publisher: Communications Biology
+  date: '2024-09-07'
+  link: https://doi.org/g992g6
+  plugin: sources.py
+  file: sources-other.yaml
+- id: doi:10.1145/3388440.3412456
+  title: CTDPathSim
+  authors:
+  - Banabithi Bose
+  - Serdar Bozdag
+  publisher: Proceedings of the 11th ACM International Conference on Bioinformatics,
+    Computational Biology and Health Informatics
+  date: '2020-09-21'
+  link: https://doi.org/g992hd
+  plugin: sources.py
+  file: sources-other.yaml
+- id: doi:10.1038/s41598-022-07628-z
+  title: Computing microRNA-gene interaction networks in pan-cancer using miRDriver
+  authors:
+  - Banabithi Bose
+  - Matthew Moravec
+  - Serdar Bozdag
+  publisher: Scientific Reports
+  date: '2022-03-08'
+  link: https://doi.org/g992hj
+  plugin: sources.py
+  file: sources-other.yaml
+- id: doi:10.1145/3307339.3342172
+  title: miRDriver
+  authors:
+  - Banabithi Bose
+  - Serdar Bozdag
+  publisher: Proceedings of the 10th ACM International Conference on Bioinformatics,
+    Computational Biology and Health Informatics
+  date: '2019-09-04'
+  link: https://doi.org/g992hn
+  plugin: sources.py
+  file: sources-other.yaml

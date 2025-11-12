@@ -566,19 +566,19 @@
     
       
         <a
-          href="/Dr.-Banabithi-Bose/blog/"
-          data-tooltip="Musings and miscellany"
+          href="/Dr.-Banabithi-Bose/team/"
+          data-tooltip="Tools"
         >
-          Blog
+          Software
         </a>
       
     
       
         <a
-          href="/Dr.-Banabithi-Bose/team/"
-          data-tooltip="Tools"
+          href="/Dr.-Banabithi-Bose/blog/"
+          data-tooltip="Musings and miscellany"
         >
-          Software
+          Blog
         </a>
       
     

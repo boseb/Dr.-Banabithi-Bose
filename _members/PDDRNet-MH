@@ -1,0 +1,9 @@
+---
+name: PDDRNet-MH
+image: images/pdr.png
+description: ""
+role: ""
+links: https://github.com/boseb/PDDRNet-MH
+---
+
+A network-based drug response prediction method.

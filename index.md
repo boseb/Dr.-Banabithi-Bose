@@ -9,12 +9,12 @@ Dr. Banabithi Bose is a Postdoctoral Research Fellow in the Department of Biomed
 
 {% capture text %}
 
-Dr. Bose's work focuses on developing and applying advanced statistical genetics, artificial intelligence, and machine learning methods to integrate genetic, genomic, epigenomic, and clinical datasets. The core objective of her research is to uncover the molecular mechanisms underlying complex diseases—particularly cancer—and to build predictive data-driven models for personalized therapy.
+Dr. Bose's work focuses on developing and applying advanced statistical genetics, artificial intelligence, and machine learning methods to integrate genetic, genomic, epigenomic, and clinical datasets. The core objective of her research is to uncover the molecular mechanisms underlying complex diseases, particularly cancer, and to build predictive data-driven models for personalized therapy.
 
 {%
   include button.html
   link="research"
-  text="Publications"
+  text="Articles"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,7 +26,7 @@ Dr. Bose's work focuses on developing and applying advanced statistical genetics
   include feature.html
   image="images/bresearch.png"
   link="research"
-  title="Research"
+  title="Published Research"
   text=text
 %}
 

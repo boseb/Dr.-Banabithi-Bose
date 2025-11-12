@@ -1,14 +1,14 @@
 ---
-name: Jane Smith
+name: GXwasR
 image: images/photo.jpg
-role: pi
-affiliation: University of Colorado
+role: "" 
+affiliation: "" 
 aliases:
-  - J. Smith
-  - J Smith
+  - ""
+  - ""
 links:
   home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  orcid: ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -37,16 +37,7 @@
   tags:
     - resource
 
-- title: CTDPathSim
-  subtitle: 
-  image: images/CTD1.0.JPG
-  link: https://dl.acm.org/doi/10.1145/3388440.3412456
-  description: Cell line-tumor deconvoluted pathway-based similarity.
-  repo: https://github.com/bozdaglab/CTDPathSim
-  tags:
-    - software
-
-    - title: miRDriver
+- title: miRDriver
   subtitle: A tool for computing microRNA-gene interaction networks
   image: images/mirDriver.jpg
   link: https://dl.acm.org/doi/10.1145/3307339.3342172
@@ -54,3 +45,5 @@
   repo: https://github.com/bozdaglab/miRDriver
   tags:
     - software
+
+

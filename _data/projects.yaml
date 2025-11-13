@@ -41,7 +41,7 @@
   subtitle: A tool for computing microRNA-gene interaction networks
   image: images/mirDriver.jpg
   link: https://dl.acm.org/doi/10.1145/3307339.3342172
-  description: Cell line-tumor deconvoluted pathway-based similarity.
+  description: ""
   repo: https://github.com/bozdaglab/miRDriver
   tags:
     - software

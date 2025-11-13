@@ -1,7 +1,7 @@
 ---
 title: Example post 3
 image: ""
-author: ""
+author: Banabithi Bose
 tags: biology, medicine
 ---
 

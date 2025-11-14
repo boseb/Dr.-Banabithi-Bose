@@ -1,6 +1,6 @@
 ---
 name: GXwasR
-image: images/logo.svg
+image: images/logo2.svg
 role: "" 
 affiliation: "" 
 aliases:
